@@ -1,3 +1,5 @@
 title: Working on It
 theme: minima
 show_excerpts: true
+keep_files:
+  - assets/docs/*.md
