@@ -1,8 +1,3 @@
----
-layout: page
-title: "Tyler Cowen on AI: Practical Usage for Reading, Writing, and Thinking"
----
-
 # Tyler Cowen on AI: Practical Usage for Reading, Writing, and Thinking
 
 This analysis covers the key insights from Tyler Cowen's conversation with David Perell about practical applications of AI, particularly for writing, reading, and thinking. Cowen offers a unique perspective as someone knowledgeable about both AI and writing.
