@@ -1,3 +1,8 @@
+---
+layout: none
+title: "Tyler Cowen on AI: Practical Usage for Reading, Writing, and Thinking"
+---
+
 # Tyler Cowen on AI: Practical Usage for Reading, Writing, and Thinking
 
 This analysis covers the key insights from Tyler Cowen's conversation with David Perell about practical applications of AI, particularly for writing, reading, and thinking. Cowen offers a unique perspective as someone knowledgeable about both AI and writing.
@@ -11,8 +16,8 @@ Cowen primarily uses AI when reading, treating it as **secondary literature**. R
 
 He actively engages with AI while reading classics like Shakespeare's Richard II or Wuthering Heights, asking questions like:
 - "What do you think of chapter two?"
-- "What happened there?" 
-- "What are some puzzles?" 
+- "What happened there?"
+- "What are some puzzles?"
 - "What should I ponder more?"
 - "How does that connect to something else later in the book?"
 
