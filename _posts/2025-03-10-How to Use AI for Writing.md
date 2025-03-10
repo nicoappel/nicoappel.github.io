@@ -2,6 +2,7 @@
 layout: post
 title: "How to Use AI for Writing"
 date: 2025-03-10
+tags: blog, AI, writing, learning, 
 ---
 
 Based on the interview with Tyler Cowen [here](https://www.youtube.com/watch?v=H1ztOoADp7M),
@@ -24,11 +25,9 @@ I fed Claude the full transcript and asked for a ”comprehensive breakdown” (
 >
 > "They're asking it questions that are too general. They're not willing to put in enough of their own time generating context."
 
-In my own work, I have made the same observation. Context is king.
+In my own work, I have made the same observation: context is key.
 
-Cowen doesn’t mention the way context is handled in Claude’s implementation of the projects feature. I find that feature to be very useful. For my upcoming workshop in-person workshop here in Berlin, titled “Towards Chronic Health-
-Building Your Personal Well-Being System with AI”, I will share some practical tips on creating and maintaining context
-for an ongoing project.
+Cowen doesn’t mention the way context is handled in Claude’s implementation of the [projects feature](https://www.anthropic.com/news/projects). I find that feature to be very useful. For my upcoming in-person workshop here in Berlin, titled “Towards Chronic Health – Building Your Personal Well-Being System with AI”, I will share some practical tips on creating and maintaining context for an ongoing project.
 
 ## The Three Layers of Understanding AI
 
