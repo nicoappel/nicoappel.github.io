@@ -21,8 +21,9 @@ find the output I am using to write this [here](https://nicoappel.github.io/asse
 
 ## Asking Better Questions
 
-  >Cowen emphasizes the importance of specific, practical questions rather than broad queries:
-  >"They're asking it questions that are too general. They're not willing to put in enough of their own time generating context."
+> Cowen emphasizes the importance of specific, practical questions rather than broad queries:
+>
+> "They're asking it questions that are too general. They're not willing to put in enough of their own time generating context."
 
 In my own work, I have made the same observation. Context is king.
 
@@ -36,4 +37,4 @@ for an ongoing project.
 This is where we can see how Cowen is extrapolating from his own user experience, combined with
 what he’s reading. He emphasizes that in order to understand AI, there are three layers:
 
-1.
+1. **Access to the best systems**: Using premium models with the most advanced capabilities. This is nothing new. And it
