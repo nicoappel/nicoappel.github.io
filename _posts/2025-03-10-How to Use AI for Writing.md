@@ -17,4 +17,23 @@ practical. He is a writer and an economist. Whether he’s the best person to ju
 intricate technical limitations of the technology, is another matter.
 
 I fed Claude the full transcript and asked for a ”comprehensive breakdown” (you can
-find the output I am using to write this [here](assets/docs/claude-output-tyler-cowen.md))
+find the output I am using to write this [here](https://nicoappel.github.io/assets/docs/claude-output-tyler-cowen.md))
+
+## Asking Better Questions
+
+  >Cowen emphasizes the importance of specific, practical questions rather than broad queries:
+  >"They're asking it questions that are too general. They're not willing to put in enough of their own time generating context."
+
+In my own work, I have made the same observation. Context is king.
+
+Cowen doesn’t mention the way context is handled in Claude’s implementation of the projects feature.
+I find this to be very useful. For my upcoming workshop in-person workshop here in Berlin, titled “Towards Chronic Health-
+Building Your Personal Well-Being System with AI”, I will share some practical tips on creating and maintaining context
+for an ongoing project.
+
+## The Three Layers of Understanding AI
+
+This is where we can see how Cowen is extrapolating from his own user experience, combined with
+what he’s reading. He emphasizes that in order to understand AI, there are three layers:
+
+1.
