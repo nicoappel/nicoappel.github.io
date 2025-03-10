@@ -13,7 +13,7 @@ AI in its “primitive” form (chatbots) is an immense tool.
 
 How Cowen is using it – and his recommendations – make a lot of sense, and are highly practical. He is a writer and an economist. Whether he’s the best person to judge the intricate technical limitations of the technology, is another matter.
 
-I fed Claude the full transcript and asked for a ”comprehensive breakdown” (you can find the output [here](https://nicoappel.github.io/assets/docs/claude-output-tyler-cowen.md)).
+I fed Claude the full transcript and asked for a ”comprehensive breakdown” (you can find the output [here](https://claude.site/artifacts/93f1cfd8-af93-481e-b6f1-2db7767b39ed)).
 
 ## In One Sentence
 
