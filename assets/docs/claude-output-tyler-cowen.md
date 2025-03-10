@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Tyler Cowen on AI: Practical Usage for Reading, Writing, and Thinking"
-nav_exclude: true
 ---
 
 # Tyler Cowen on AI: Practical Usage for Reading, Writing, and Thinking
