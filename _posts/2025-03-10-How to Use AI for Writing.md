@@ -7,17 +7,16 @@ date: 2025-03-10
 Based on the interview with Tyler Cowen [here](https://www.youtube.com/watch?v=H1ztOoADp7M),
 I wanted to extract and extend on some aspects Tyler brought up.
 
-Tyler has been very bullish on AI, and for some reason has avoided having a debate
-with Gary Marcus. I haven’t really looked deeper into that, but let me say that I side
-with Cowen’s enthussiasm in this particular context: For the curious, learning-oriented knowledge workers,
+Tyler has been very bullish on AI, and has _allegedly_ for some reason avoided a debate with Gary Marcus. I haven’t really looked deeper into that, but let me say that I side with Cowen’s enthusiasm in this particular context: For the curious, learning-oriented knowledge workers,
 AI in its “primitive” form (chatbots) is an immense tool.
 
-How Cowen is using it – and his recommendations – make a lot of sense, and are highly
-practical. He is a writer and an economist. Whether he’s the best person to judge the
-intricate technical limitations of the technology, is another matter.
+How Cowen is using it – and his recommendations – make a lot of sense, and are highly practical. He is a writer and an economist. Whether he’s the best person to judge the intricate technical limitations of the technology, is another matter.
 
-I fed Claude the full transcript and asked for a ”comprehensive breakdown” (you can
-find the output I am using to write this [here](https://nicoappel.github.io/assets/docs/claude-output-tyler-cowen.md))
+I fed Claude the full transcript and asked for a ”comprehensive breakdown” (you can find the output I am using to write this [here](https://nicoappel.github.io/assets/docs/claude-output-tyler-cowen.md))
+
+## In One Sentence
+
+> Learn to manage AI effectively while developing complementary human skills.
 
 ## Asking Better Questions
 
@@ -27,8 +26,7 @@ find the output I am using to write this [here](https://nicoappel.github.io/asse
 
 In my own work, I have made the same observation. Context is king.
 
-Cowen doesn’t mention the way context is handled in Claude’s implementation of the projects feature.
-I find this to be very useful. For my upcoming workshop in-person workshop here in Berlin, titled “Towards Chronic Health-
+Cowen doesn’t mention the way context is handled in Claude’s implementation of the projects feature. I find that feature to be very useful. For my upcoming workshop in-person workshop here in Berlin, titled “Towards Chronic Health-
 Building Your Personal Well-Being System with AI”, I will share some practical tips on creating and maintaining context
 for an ongoing project.
 
@@ -46,21 +44,19 @@ interactions.
 
 ## The Rising Value of Secrets and Networks
 
-This point caught my attention. I have been actively networking for the past year, something I have not done much of before. I had not considered this perspective, though.
+This point caught my attention. It’s an interesting observation.
 
-What is somewhat troubling is the “public” information bit. There’s a flip side to this: certain interest groups might want to prevent some of the more valuable information from staying (or becoming) public.
+Personnaly, I feel like I have neglected [network activation](https://nicoappel.substack.com/p/network-activation) for too long. I'm trying to catch up with that, though.
 
-In a world where public information is accessible to everyone through AI:
+What is somewhat troubling is how important, or essential, the distinction of “public” is in the following. There’s a flip side to this: certain interest groups might want to prevent some of the more valuable information from staying (or becoming) public.
+
+Cowen’s reasoning is this: In a world where public information is accessible to everyone through AI, we will see that
 
 1. Secrets become more valuable: "Humans know secrets. Maybe AIs can be fed secrets, but they don't in general know secrets."
 2. Social networks increase in importance: "Your network of humans is not just 20% more valuable. It could be 50x more valuable."
 3. In-person interactions gain value: "Traveling and meeting people becomes way more important."
 
 What is not included in the summary is that Tyler talked about how there is a kind of game that humans play, in which secrets are being traded.
-
-## One core sentence
-
-> Learn to manage AI effectively while developing complementary human skills
 
 ## On DeepSeek
 
