@@ -9,9 +9,12 @@ minima:
     - title: GitHub
       icon: github
       url: "https://github.com/nicoappel"
-    - title: X
-      icon: X
+    - title: Twitter
+      icon: x-twitter
       url: "https://x.com/nicoappel"
     - title: LinkedIn
-      icon: LinkedIn
+      icon: fa-linkedin
       url: "https://www.linkedin.com/in/nico-appel/"
+    - title: Substack
+      icon: substack
+      url: "https://substack.com/@nicoappel"
