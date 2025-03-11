@@ -11,7 +11,7 @@ Go to [lumon-industries.com](https://lumon-industries.com/) to get some work don
 
 I did my part:
 
-![[blog/_post/refining-done.png]]
+![[blog/_posts/refining-done.png]]
 
 ```bash
 In refining 0x331E7 : 0xD3259D (Dranesville) in 00h 09m 28s 590ms I have brought glory to the company.
