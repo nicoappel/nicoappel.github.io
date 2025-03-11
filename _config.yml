@@ -1,5 +1,17 @@
 title: I'm Working on It
 theme: minima
 show_excerpts: true
+author: "Nico Appel"
 keep_files:
   - assets/docs/*.md
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/nicoappel"
+    - title: X
+      icon: X
+      url: "https://x.com/nicoappel"
+    - title: LinkedIn
+      icon: LinkedIn
+      url: "https://www.linkedin.com/in/nico-appel/"
