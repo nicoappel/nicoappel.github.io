@@ -1,15 +1,11 @@
 .embed-container {
     position: relative;
+    width: 100%;
     padding-bottom: 56.25%; /* 16:9 aspect ratio */
-    height: 0;
-    overflow: hidden;
-    width: 100%; /* Ensure full width */
-    margin-bottom: 1rem; /* Add some space below the video */
+    margin: 1rem 0; /* Optional spacing */
 }
 
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
+.embed-container iframe {
     position: absolute;
     top: 0;
     left: 0;
