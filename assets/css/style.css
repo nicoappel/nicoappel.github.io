@@ -3,11 +3,8 @@
     padding-bottom: 56.25%; /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
-    /* Remove or override these lines if you want the embed to match the content width exactly */
-    /* max-width: 95%; */
-    /* margin: 0 auto; */
-    /* padding-left: 15px; */
-    /* padding-right: 15px; */
+    width: 100%; /* Ensure full width */
+    margin-bottom: 1rem; /* Add some space below the video */
 }
 
 .embed-container iframe,
