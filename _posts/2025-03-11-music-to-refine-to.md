@@ -23,4 +23,4 @@ Praise Kier.
 lumon-industries.com
 ```
 
-![Refining achieved](/blog/assets/images/refining-done.png)
+![Refining achieved](/assets/images/refining-done.png)
