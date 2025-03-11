@@ -40,11 +40,13 @@ As for **making connections**, this seems a cognitive and manual, or technical, 
 
 ## More Tool 
 
-Back to the tool: SilverBullet automatically creates bi-directional links. Something that Notion’s missing.
+Back to the tool. Caution: high nerd level now.
 
-What’s cool about this, is that I can even instruct an AI system to assist in creating Zettelkasten-style notes _and_ have it use the formatting to create internal links.
+SilverBullet automatically creates bi-directional links. Something that Notion’s missing.
 
-So I tell the AI about the format, like this:
+What’s cool about this, is that I can instruct an AI system to assist in creating Zettelkasten-style notes _and_ have it use the formatting to create internal links. Meaning, I get pre-connected notes for my PKM. Here’s how.
+
+I instruct the AI about the format, which in itself is a note in my PKM that I can easily pull up:
 
 ```
 I am using SilverBullet for my notes.
@@ -68,7 +70,11 @@ type: {could be 'note', 'concept', 'structure', 'principle' etc.}
 </format>
 ```
 
-With these instructions I can use the AI assistant to suggest and creat notes that are _already connected_. 
+With these instructions the AI assistant is able to suggest and create notes that are _already connected_. 
+
+You can see the internal links in the numbered list, set in double square brackets – `[[internal link]]`. 
+
+Each of these links points to a separate note, or page, containing more info on the respective topic.
 
 ```
 ---
