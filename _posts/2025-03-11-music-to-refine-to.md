@@ -5,7 +5,8 @@ title: "Severance – Music To Refine To"
 
 # Music To Refine To
 
-{% include youtube.html id="JRnDYB28bL8" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JRnDYB28bL8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Go to [lumon-industries.com](https://lumon-industries.com/) to get some work done. We have a lot of refining to do.
 
