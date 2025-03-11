@@ -3,15 +3,13 @@ layout: post
 title: "Severance – Music To Refine To"
 ---
 
-# Music To Refine To
+Go to [lumon-industries.com](https://lumon-industries.com/) to get some work done. We have a lot of refining to do.
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/JRnDYB28bL8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Go to [lumon-industries.com](https://lumon-industries.com/) to get some work done. We have a lot of refining to do.
-
-I did my part:
+I did my part. 100% complete 👇
 
 ```bash
 In refining 0x331E7 : 0xD3259D (Dranesville) in 00h 09m 28s 590ms I have brought glory to the company.
@@ -25,4 +23,4 @@ Praise Kier.
 lumon-industries.com
 ```
 
-![[blog/assets/images/refining-done.png]]
+![Refining achieved](/blog/assets/images/refining-done.png)

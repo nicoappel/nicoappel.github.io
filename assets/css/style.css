@@ -5,19 +5,22 @@
 
 /* Add your custom responsive CSS below */
 .embed-container {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 90%; /* Adjust this value to control the width of the container */
+    margin: 0 auto; /* Center the container */
+    padding-left: 15px; /* Add some padding to the left */
+    padding-right: 15px; /* Add some padding to the right */
 }
 
 .embed-container iframe,
 .embed-container object,
 .embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
