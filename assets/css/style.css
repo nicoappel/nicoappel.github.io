@@ -1,18 +1,13 @@
----
----
-
-@import "{{ site.theme }}";
-
-/* Add your custom responsive CSS below */
 .embed-container {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
-    max-width: 95%; /* Adjust this value to control the width of the container */
-    margin: 0 auto; /* Center the container */
-    padding-left: 15px; /* Add some padding to the left */
-    padding-right: 15px; /* Add some padding to the right */
+    /* Remove or override these lines if you want the embed to match the content width exactly */
+    /* max-width: 95%; */
+    /* margin: 0 auto; */
+    /* padding-left: 15px; */
+    /* padding-right: 15px; */
 }
 
 .embed-container iframe,
