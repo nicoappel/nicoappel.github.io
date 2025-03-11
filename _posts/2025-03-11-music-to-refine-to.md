@@ -3,7 +3,9 @@ layout: post
 title: "Severance – Music To Refine To"
 ---
 
-Go to [lumon-industries.com](https://lumon-industries.com/) to get some work done. We have a lot of refining to do.
+If you are watching Severance, go to [lumon-industries.com](https://lumon-industries.com/) and get some work done. 
+
+The MDR department has a quota to reach. Or else.
 
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/JRnDYB28bL8" frameborder="0" allowfullscreen></iframe>
