@@ -4,8 +4,7 @@ show_excerpts: true
 author: "Nico Appel"
 keep_files:
   - assets/docs/*.md
-minima:
-  social_links:
-    github: nicoappel
-    twitter: nicoappel
-    linkedin: in/nico-appel
+social_links:
+  github: nicoappel
+  twitter: nicoappel
+  linkedin: in/nico-appel
