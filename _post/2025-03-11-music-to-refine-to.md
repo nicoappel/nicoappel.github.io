@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Severance – Music To Refine To
+title: "Severance – Music To Refine To"
 ---
 
 # Music To Refine To
