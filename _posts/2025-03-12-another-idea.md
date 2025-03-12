@@ -1,5 +1,5 @@
 ---
-title: "Another Idea"
+title: "All that Matters Is that You're Here, Working"
 layout: post
 ---
 
