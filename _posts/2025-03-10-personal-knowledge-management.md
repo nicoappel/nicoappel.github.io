@@ -11,17 +11,13 @@ But this here… we can talk shop.
 
 Let’s start with the core tool right away: I am typing this in [SilverBullet](https://silverbullet.md/),
 
-> … a note-taking application optimized for people with a [hacker mindset](https://en.wikipedia.org/wiki/Hacker). […] Where your notes essentially become a _database_ that you can query; that you can build custom knowledge applications on top of? A _hackable notebook_, if you will?
+> … a note-taking application […] Where your notes essentially become a _database_ that you can query; 
 
-SilverBullet reminds me of Roam Research, which I used for a while. Compared to Roam Research, or Notion, SilverBullet is nothing but plain text files, formatted in Markdown, stored locally on my device.
-
-Running Silverbullet in a Docker container locally on my Mac is a bit of a stretch for me, tech skills and such. I’ve done things like that, but I only understand a very small part of what’s actually going on. However, this is 2025 and I have a few very knowledgeable friends that never sleep. I can ask for help and get some pretty solid advice whenever I am lost.
-
-You’ll be reading this on a blog that is built with Jekyll and hosted on Github pages. I set this up just the other day. I had some one-digit percentage of the necessary knowledge/experience. Again, I had some help. Apparently, we got it done. Amazing. Still blows my mind 🤯.
+SilverBullet reminds me of Roam Research, which I used for a while. Compared to Roam Research, or Notion, SilverBullet uses plain text files, formatted in Markdown, stored locally on my device.
 
 ## Personal Knowledge Management
 
-At its core, I think, **personal knowledge management** based on [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) (I also like [Andy Matuschak’s Evergreen Notes](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX), or more modern and digital take) has three components:
+At its core, I think, **personal knowledge management** based on [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) (I also like [Andy Matuschak’s Evergreen Notes](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX), a more modern and digital take) has three components:
 
 1. Creating notes
 2. Making connections
