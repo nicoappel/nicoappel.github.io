@@ -2,10 +2,6 @@
 title: "Attention Is All You Need"
 layout: post
 ---
-<figure>
-  <img src="/assets/images/serpiente–alquimica.jpg" alt="Ouroboros">
-  <figcaption>Source: <a href="https://commons.wikimedia.org/w/index.php?curid=2856329">https://commons.wikimedia.org/w/index.php?curid=2856329</a></figcaption>
-</figure>
 
 The seminal paper that introduced transformer technology which eventually led to generative AI as we currently know it, was titled [_Attention is all you need_](https://arxiv.org/abs/1706.03762) (2017).
 
@@ -17,7 +13,12 @@ The big tech companies don’t mind this trend. On the contrary, they all have p
 
 **The limited resource is attention.**
 
-So we come full circle, a cosmic joke of sorts. _Attention is all you need_ feeding right back into itself. 
+So we come full circle, a cosmic joke of sorts. _Attention is all you need_ feeding right back into itself. The Ouroboros?
+
+<figure>
+  <img src="/assets/images/serpiente–alquimica.jpg" alt="Ouroboros">
+  <figcaption>Source: <a href="https://commons.wikimedia.org/w/index.php?curid=2856329">https://commons.wikimedia.org/w/index.php?curid=2856329</a></figcaption>
+</figure>
 
 It’s a bit like inflation (oversimplified – I’m not an economist). Things get more expensive. People want to make more money. If wages rise, things become more expensive.
 
