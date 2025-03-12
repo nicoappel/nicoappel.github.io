@@ -1,5 +1,5 @@
 ---
-title: “Attention Is All You Need”
+title: "Attention Is All You Need"
 layout: post
 ---
 ![Ouroboros](/assets/images/serpiente–alquimica.jpg)
