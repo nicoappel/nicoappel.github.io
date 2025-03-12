@@ -12,7 +12,7 @@ The consequence is that we are drowning in information, or content. This isn’t
 
 The big tech companies don’t mind this trend. On the contrary, they all have platforms that provide some value by algorithmically curating things. You get your feeds, timelines, search results, etc.
 
-**The limited resource is attention. **
+**The limited resource is attention.**
 
 So we come full circle, a cosmic joke of sorts. _Attention is all you need_ feeding right back into itself. 
 
