@@ -2,7 +2,7 @@
 title: “Attention Is All You Need”
 layout: post
 ---
-![Ouroboros](https://en.wikipedia.org/wiki/Ouroboros#/media/File:Serpiente_alquimica.jpg)
+![Ouroboros](/images/serpiente–alquimica.jpg)
 
 The seminal paper that introduced transformer technology which eventually led to generative AI as we currently know it, was titled [_Attention is all you need_](https://arxiv.org/abs/1706.03762) (2017).
 
