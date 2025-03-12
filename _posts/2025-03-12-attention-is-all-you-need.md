@@ -2,7 +2,9 @@
 title: “Attention Is All You Need”
 layout: post
 ---
-The seminal paper that introduced transformer technology which eventually led to generative AI as we currently know it, was of course titled [_Attention is all you need_](https://arxiv.org/abs/1706.03762) (2017).
+![Ouroboros](https://en.wikipedia.org/wiki/Ouroboros#/media/File:Serpiente_alquimica.jpg)
+
+The seminal paper that introduced transformer technology which eventually led to generative AI as we currently know it, was titled [_Attention is all you need_](https://arxiv.org/abs/1706.03762) (2017).
 
 Generative AI has lowered the cost of content creation to basically zero, or “to cheap to meter”. We have a term for it: [AI Slop](https://en.wikipedia.org/wiki/AI_slop).
 
