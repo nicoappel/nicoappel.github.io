@@ -24,3 +24,7 @@ As a reminder for myself, here’s a part of the lyrics from Marc’s song _Anot
 <div class="embed-container">
   <iframe src="https://www.youtube.com/embed/sRpUr5iQPIY" frameborder="0" allowfullscreen></iframe>
 </div>
+
+I guess **“heroic”** and **“pathetic”** are about as close as **“genius”** and **“delusional.”** Even those considered heroes and geniuses must maintain that conviction themselves, which I assume is fragile. That might be why arrogance or megalomania could help sustain the self-delusion, justified or not.
+
+Bottom line: being able to trust one’s own judgment (internal and self-referential) against the majority view of others (external) is tricky.
