@@ -1,9 +1,6 @@
 ---
 layout: page
-tite: about
+tite: "About"
 ---
 
-Nico Appel
-- LinkedIn
-- Substack
-- C4AIL
+This is a blog.
