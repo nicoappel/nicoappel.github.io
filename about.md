@@ -1,6 +1,6 @@
 ---
-tite: "About"
+tite: About
 layout: page
 ---
 
-This is a blog.
+This is a blog. Seriously.
