@@ -12,6 +12,6 @@ I heard this sentence during a Zen meditation retreat more than 25 years ago:
 
 > From the vantage of the coffin, life and all its journey appears as a single straight line.
 
-And yet, our perspective looking forward from the present is that there are many possibilities and related decisions or choices. This is not about determinism. But consider this: with each event that happens, the straight line continues.
+And yet, our perspective looking forward from the present is that there are many possibilities and related decisions or choices. Consider this: with each event that happens, the straight line continues.
 
 ![life is a straight line](/assets/images/possibilities.png)
