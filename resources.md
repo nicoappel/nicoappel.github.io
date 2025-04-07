@@ -1,5 +1,5 @@
 ---
-title: "Workshop Resources"
+tite: "Workshop Resources"
 layout: page
 ---
 
