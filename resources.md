@@ -2,18 +2,12 @@
 layout: page
 ---
 
-# ❇︎
-
-- [Integrated Well-being Project: Core Framework and Documentation Guidelines](/integrated-well-being-project-core-framework-and-documentation-guidelines)
-- [Depth Psychological Framework](/framework-for-depth-psychological-dialogue-and-practice)
-
-
 ## Links
 
 - [David Shapiro’s video “Tutorial: How to use AI to aid with chronic health issues (walkthrough of my journey)“](https://www.youtube.com/watch?v=EhCQKQpHJ7s)
 - [Book: “What matters most” by James Hollis](https://www.penguinrandomhouse.com/books/303341/what-matters-most-by-james-hollis/)
 
----
+<hr>
 
 # Integrated Well-being Project: Core Framework and Documentation Guidelines
 
@@ -115,7 +109,7 @@ This framework serves as a living document, evolving through:
 The success of this system depends on maintaining rigorous documentation while remaining adaptable to emerging patterns and insights. Each component serves the larger goal of sustainable optimization across all domains of health and performance.
 
 
----
+<hr>
 
 # Framework for Depth Psychological Dialogue and Practice
 
