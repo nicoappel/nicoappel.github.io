@@ -1,6 +1,6 @@
 ---
 title: "Framework for Depth Psychological Dialogue and Practice"
-layout: post
+layout: page
 ---
 
 # Framework for Depth Psychological Dialogue and Practice

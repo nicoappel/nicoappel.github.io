@@ -1,6 +1,6 @@
 ---
 title: "Workshop Resources"
-layout: post
+layout: page
 ---
 
 # Towards Chronic Health – Workshop Resources

@@ -1,6 +1,6 @@
 ---
 title: "Integrated Well-being Project: Core Framework and Documentation Guidelines"
-layout: post
+layout: page
 ---
 
 # Integrated Well-being Project: Core Framework and Documentation Guidelines
