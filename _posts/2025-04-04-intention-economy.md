@@ -1,5 +1,5 @@
 ---
-title: "The Falsse Intention Economy"
+title: "The False Intention Economy"
 layout: post
 type: link
 ---
