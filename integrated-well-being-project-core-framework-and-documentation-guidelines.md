@@ -1,5 +1,5 @@
 ---
-title: "Integrated Well-being Project: Core Framework and Documentation Guidelines"
+title: Integrated Well-being Project: Core Framework and Documentation Guidelines
 layout: page
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Framework for Depth Psychological Dialogue and Practice"
+title: Framework for Depth Psychological Dialogue and Practice
 layout: page
 ---
 
