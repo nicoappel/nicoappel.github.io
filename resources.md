@@ -12,14 +12,15 @@ layout: page
 
 ## INSTRUCTIONS
 
+(These are from Davdi Shaprio, slightly modified. [Source](https://github.com/daveshap/Chronic_Health_AI))
 1. Create a new project in Claude or ChatGPT (or whichever chatbot you prefer)
-2. Copy/paste the MAIN_INSTRUCTIONS.md content into the Project Instructions: https://raw.githubusercontent.com/daveshap/Chronic_Health_AI/refs/heads/main/MAIN_INSTRUCTIONS.md
-3. Add the full sentence style to the available styles https://github.com/daveshap/Chronic_Health_AI/blob/main/STYLE_FULL_SENTENCE.md (this will be your default)
+2. Copy/paste the MAIN_INSTRUCTIONS.md content into the Project Instructions: [Main instructions link](https://raw.githubusercontent.com/daveshap/Chronic_Health_AI/refs/heads/main/MAIN_INSTRUCTIONS.md)
+3. Add the full sentence style to the available styles: [Full sentence style link](https://github.com/daveshap/Chronic_Health_AI/blob/main/STYLE_FULL_SENTENCE.md) (this will be your default)
 4. Populate the project files with a minimum of the below manifest of files.
 5. Begin conversing with the AI.
 
 ### Initial Files
-1.**_Full Timeline._** Construct a full timeline of your chronic issue. Provide as much detail as possible, including all medical events and symptoms, even if they don't seem relevant. A rule of thumb with chronic health issues is this: Assume that any symptom or event is relevant until proven otherwise.
+1 .**_Full Timeline._** Construct a full timeline of your chronic issue. Provide as much detail as possible, including all medical events and symptoms, even if they don't seem relevant. A rule of thumb with chronic health issues is this: Assume that any symptom or event is relevant until proven otherwise.
 2. **_Lab Work._** Document all medical tests and diagnosis, including dates. This might need to be separate files.
 3. **_Symptoms._** Separately, document all symptoms you have experienced or are experiencing (include dates, severity, etc).
 4. **_Demographics._** Provide you age, name, sex, location, and other demographic data (family status, living arrangements) as this can provide helpful context.
