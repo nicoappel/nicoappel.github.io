@@ -1,3 +1,8 @@
+---
+fake:
+layout: post
+---
+
 # Integrated Well-being Project: Core Framework and Documentation Guidelines
 
 ## Mission and Scope

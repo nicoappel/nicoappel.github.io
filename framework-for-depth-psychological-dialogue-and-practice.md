@@ -1,3 +1,7 @@
+---
+fake:
+layout: post
+---
 # Framework for Depth Psychological Dialogue and Practice
 
 ## Foundation and Purpose
