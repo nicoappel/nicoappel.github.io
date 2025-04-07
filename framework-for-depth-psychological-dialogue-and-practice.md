@@ -1,8 +1,3 @@
----
-title: Framework for Depth Psychological Dialogue and Practice
-layout: page
----
-
 # Framework for Depth Psychological Dialogue and Practice
 
 ## Foundation and Purpose
