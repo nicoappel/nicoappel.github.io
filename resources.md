@@ -5,8 +5,8 @@ layout: page
 
 # Towards Chronic Health – Workshop Resources
 
-- [Integrated Well-being Project: Core Framework and Documentation Guidelines](/towards-chronic-health/integrated-well-being-project-core-framework-and-documentation-guidelines)
-- [Depth Psychological Framework](/towards-chronic-health/framework-for-depth-psychological-dialogue-and-practice)
+- [Integrated Well-being Project: Core Framework and Documentation Guidelines](/integrated-well-being-project-core-framework-and-documentation-guidelines)
+- [Depth Psychological Framework](/framework-for-depth-psychological-dialogue-and-practice)
 
 
 ## Links
