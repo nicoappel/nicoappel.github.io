@@ -10,9 +10,9 @@ layout: page
 
 <hr>
 
-## INSTRUCTIONS
+## Instructions
 
-(These are from Davdi Shaprio, slightly modified. [Source](https://github.com/daveshap/Chronic_Health_AI))
+(These are from David Shaprio, slightly modified. [Source](https://github.com/daveshap/Chronic_Health_AI))
 1. Create a new project in Claude or ChatGPT (or whichever chatbot you prefer)
 2. Copy/paste the MAIN_INSTRUCTIONS.md content into the Project Instructions: [Main instructions link](https://raw.githubusercontent.com/daveshap/Chronic_Health_AI/refs/heads/main/MAIN_INSTRUCTIONS.md)
 3. Add the full sentence style to the available styles: [Full sentence style link](https://github.com/daveshap/Chronic_Health_AI/blob/main/STYLE_FULL_SENTENCE.md) (this will be your default)
