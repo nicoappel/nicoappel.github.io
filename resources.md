@@ -31,7 +31,7 @@ Over time, you'll add new files, such as logs and journal entires, new tests, an
 - Journal entries could include relevant events, depending on your struggles, such as DIET, EXERCISE, and SLEEP (these are crucial to managing health and chronic conditions)
 - You can also save bits of conversations you have with chatbots into the files (I recommend against saving the entire conversations as that will take up a lot of space)
 
-## COMMUNICATION
+## Communication
 
 You will need to learn to communicate with the chatbot as well as human doctors. Both can be frustrating.
 
