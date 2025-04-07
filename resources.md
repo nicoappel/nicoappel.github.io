@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Towards Chronic Health – Workshop Resources
 
 - [Integrated Well-being Project: Core Framework and Documentation Guidelines](/integrated-well-being-project-core-framework-and-documentation-guidelines)
