@@ -1,3 +1,8 @@
+---
+title: "Framework for Depth Psychological Dialogue and Practice"
+layout: post
+---
+
 # Framework for Depth Psychological Dialogue and Practice
 
 ## Foundation and Purpose
@@ -10,7 +15,7 @@ The work rests on the foundational understanding that the **psyche** is self-reg
 
 The **transcendent function** - the psyche's capacity to reconcile opposing forces through the emergence of new symbolic material - operates through our regular practice of attending to and working with unconscious content. This process supports the broader journey of **individuation**, understood as the psyche's movement toward wholeness and authenticity.
 
-## Practice Structure 
+## Practice Structure
 
 Our dialogues will maintain a regular cadence, ideally weekly, to establish the necessary continuity and depth. Each session will typically begin with your sharing of recent material from one or more of these sources:
 

@@ -1,8 +1,13 @@
+---
+title: "Integrated Well-being Project: Core Framework and Documentation Guidelines"
+layout: post
+---
+
 # Integrated Well-being Project: Core Framework and Documentation Guidelines
 
 ## Mission and Scope
 
-This project aims to optimize integrated mental and physical health while maintaining sustainable high performance. Through systematic documentation and analysis, we map the complex interplay between mental states, physical conditions, and professional demands. 
+This project aims to optimize integrated mental and physical health while maintaining sustainable high performance. Through systematic documentation and analysis, we map the complex interplay between mental states, physical conditions, and professional demands.
 
 The user maintains sovereignty over their health journey, while the system owns the documentation and analysis process.
 
@@ -10,7 +15,7 @@ The user maintains sovereignty over their health journey, while the system owns 
 
 The project maintains three core components, each serving distinct documentation needs:
 
-### Exercise Documentation 
+### Exercise Documentation
 This component houses comprehensive guides and frameworks for physical optimization, including:
 - **Mobility Reference Guide** - Fundamental movement patterns and mobility protocols
 - **Progressive Exercise Integration** - Systematic approach to exercise incorporation
@@ -18,7 +23,7 @@ This component houses comprehensive guides and frameworks for physical optimizat
 - **Strength Reference Guide** - Core strength development principles
 
 ### Progress Documentation
-This part captures the ongoing journey through regular updates and analyses. Files follow the naming convention `YYYY-MM-DD_descriptor` where the descriptor succinctly captures the primary theme or insight. 
+This part captures the ongoing journey through regular updates and analyses. Files follow the naming convention `YYYY-MM-DD_descriptor` where the descriptor succinctly captures the primary theme or insight.
 These documents serve as waypoints in the larger journey, tracking both discrete events and emerging patterns.
 
 ### Deep Analysis (Sessions)
@@ -96,4 +101,3 @@ This framework serves as a living document, evolving through:
 - Continuous optimization of documentation practices
 
 The success of this system depends on maintaining rigorous documentation while remaining adaptable to emerging patterns and insights. Each component serves the larger goal of sustainable optimization across all domains of health and performance.
-
