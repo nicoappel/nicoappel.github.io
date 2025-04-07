@@ -20,7 +20,7 @@ layout: page
 5. Begin conversing with the AI.
 
 ### Initial Files
-1 .**_Full Timeline._** Construct a full timeline of your chronic issue. Provide as much detail as possible, including all medical events and symptoms, even if they don't seem relevant. A rule of thumb with chronic health issues is this: Assume that any symptom or event is relevant until proven otherwise.
+1. **_Full Timeline._** Construct a full timeline of your chronic issue. Provide as much detail as possible, including all medical events and symptoms, even if they don't seem relevant. A rule of thumb with chronic health issues is this: Assume that any symptom or event is relevant until proven otherwise.
 2. **_Lab Work._** Document all medical tests and diagnosis, including dates. This might need to be separate files.
 3. **_Symptoms._** Separately, document all symptoms you have experienced or are experiencing (include dates, severity, etc).
 4. **_Demographics._** Provide you age, name, sex, location, and other demographic data (family status, living arrangements) as this can provide helpful context.
