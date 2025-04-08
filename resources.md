@@ -1,10 +1,12 @@
 ---
 layout: page
 ---
-㊙︎
+⚕️
 
 Hey!
 Thank you for attending the workshop.
+
+Here’s a link to the [presentation slides](https://nicoappel.github.io/assets/docs/slides.pdf) (PDF).
 
 Below you will find the resources collection.
 
