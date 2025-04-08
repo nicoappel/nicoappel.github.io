@@ -3,6 +3,11 @@ layout: page
 ---
 ㊙︎
 
+Hey!
+Thank you for attending the workshop.
+
+Below you will find the resources collection.
+
 ## Links
 
 - [David Shapiro’s video “Tutorial: How to use AI to aid with chronic health issues (walkthrough of my journey)“](https://www.youtube.com/watch?v=EhCQKQpHJ7s)
@@ -10,9 +15,10 @@ layout: page
 
 <hr>
 
-## Instructions
+## Instructions (from David Shapiro)
 
-(These are from David Shaprio, slightly modified. [Source](https://github.com/daveshap/Chronic_Health_AI))
+(Slightly modified. [Source](https://github.com/daveshap/Chronic_Health_AI))
+
 1. Create a new project in Claude or ChatGPT (or whichever chatbot you prefer)
 2. Copy/paste the MAIN_INSTRUCTIONS.md content into the Project Instructions: [Main instructions link](https://raw.githubusercontent.com/daveshap/Chronic_Health_AI/refs/heads/main/MAIN_INSTRUCTIONS.md)
 3. Add the full sentence style to the available styles: [Full sentence style link](https://github.com/daveshap/Chronic_Health_AI/blob/main/STYLE_FULL_SENTENCE.md) (this will be your default)
@@ -41,6 +47,8 @@ You will need to learn to communicate with the chatbot as well as human doctors.
 
 
 ---
+
+This is Nico's version of overall project instructions:
 
 # Integrated Well-being Project: Core Framework and Documentation Guidelines
 
@@ -143,6 +151,8 @@ The success of this system depends on maintaining rigorous documentation while r
 
 
 <hr>
+
+As an example, this is the framework I developed with Claude and then added to the project files. It explains what we expect or aim to do in the area of depth psychology. Basically, these are consistent instructions about how to deal with and process the input I refer to us “sessions”, where I reflect on experiences, dreams, etc.
 
 # Framework for Depth Psychological Dialogue and Practice
 
