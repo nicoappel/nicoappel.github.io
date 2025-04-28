@@ -13,3 +13,8 @@ Now we have to extend “persons” to LLMs. And this is why some folks have exp
 
 🔗 [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 
+If you understand the technology and its flaws, the best explanation and excuse might be, quoting [Frankfurter](https://openlibrary.org/books/OL7759033M/On_Bullshit) directly:
+
+> It is impossible to lie without knowing the truth.
+
+LLMs don’t know the truth. They are made of inert weights, reacting to input. Hence, they bullshit. 
