@@ -7,7 +7,7 @@ layout: post
 >
 > – From _Technopoly: The Surrender of Culture to Technology_ by Neil Postman
 
-Well, that was published in 1993.
+Well, that was published in **1992**.
 
 Regarding heaven on earth, here’s a something from the most successful fundraiser in human history, [Mr. Altman](https://ia.samaltman.com/)
 
