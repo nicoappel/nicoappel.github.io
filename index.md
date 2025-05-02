@@ -1,6 +1,5 @@
-Hey!
-My operations consulting is called [TightOps](https://tightops.com). 
+Hey!<br>
+My operations consulting is at [TightOps](https://tightops.com).
 I am also a partner of the [Center for AI Leadership](https://centreforaileadership.org/).
----  
-⚠️ As are most things, _**this**_ is an experiment.
-
+---
+Fair warning: _**this blog**_ is a of an experiment.
