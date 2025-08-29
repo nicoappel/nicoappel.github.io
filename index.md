@@ -1,5 +1,2 @@
 Hey!<br>
-My operations consulting is at [TightOps](https://tightops.com).
-I am also a partner of the [Center for AI Leadership](https://centreforaileadership.org/).
----
-Fair warning: _**this blog**_ is a bit of an experiment.
+This is Nico from [TightOps](https://tightops.com), also a partner with the [Center for AI Leadership](https://centreforaileadership.org/).
