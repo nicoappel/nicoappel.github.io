@@ -13,8 +13,6 @@ karakeep_id: "cvbveg5zweywiej49bkaykeb"
 Turtles all the way down.
 
 > ### Complex Agents
-```
-"Build a customer support agent that integrates with Slack and searches our knowledge base"
-```
+> "Build a customer support agent that integrates with Slack and searches our knowledge base"
 
 Seriously, who thinks this will actually work?
