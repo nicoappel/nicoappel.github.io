@@ -11,8 +11,10 @@ karakeep_id: "cvbveg5zweywiej49bkaykeb"
 
 [🔗 GitHub](https://github.com/coleam00/context-engineering-intro/tree/main/use-cases/agent-factory-with-subagents)
 Turtles all the way down.
+
 > ### Complex Agents
 ```
 "Build a customer support agent that integrates with Slack and searches our knowledge base"
 ```
+
 Seriously, who thinks this will actually work?
