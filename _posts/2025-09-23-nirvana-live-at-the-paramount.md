@@ -6,7 +6,6 @@ created: "2025-09-22 20:35:00"
 type: "link"
 tags: ["grunge", "live performance", "music", "Nirvana", "rock"]
 status: "published"
-needs_context: true
 ---
 
 I grew up on Nirvana and Rage Against The Machine. Naturally, I was motivated to learn to play the guitar, and also to wear some of grandparent’s clothes (thrifting, sort of).
