@@ -16,6 +16,3 @@ While the former turned out great, the latter thankfully happened during a time 
 By the way, that concert doesn’t end well. Still aches me to see this.
 
 [🔗 arte.tv](https://www.arte.tv/de/videos/124202-000-A/nirvana/?utm_source=ios&utm_medium=share&utm_campaign=124202-000-A)
-
----
-*Imported from Karakeep on 2025-09-23 06:43:28*
