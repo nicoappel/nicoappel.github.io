@@ -1,0 +1,17 @@
+---
+karakeep_id: "xwbztwo07zfc4qawbyo7rvr1"
+title: "AI-Generated “Workslop” Is Destroying Productivity"
+url: "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity"
+created: "2025-09-23 13:00:18"
+type: "link"
+tags: ["Artificial Intelligence", "Workforce Management", "Workplace Productivity", "Generative AI", "Technology Adoption"]
+status: "published"
+---
+
+Update your local dictionary. We have a new word: AI workslop. 
+
+![[blog/_posts/workslop.png]]
+
+> On social media, which is increasingly clogged with low-quality AI-generated posts, this content is often referred to as “AI slop.” In the context of work, we refer to this phenomenon as “[workslop](https://www.betterup.com/workslop).” We define workslop as *AI generated work content that masquerades as good work, but lacks the substance to meaningfully advance a given task*.
+
+[🔗 hbr.org](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
