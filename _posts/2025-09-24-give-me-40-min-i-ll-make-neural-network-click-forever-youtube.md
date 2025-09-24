@@ -6,9 +6,8 @@ created: "2025-09-24 14:34:54"
 type: "link"
 tags: ["machine learning", "Educational Video", "Deep Learning", "Neural Networks", "Artificial Intelligence"]
 status: "draft"
+published: false
 ---
-This is a great resource. 
-
-
+This is a test. 
 
 [🔗 YouTube](https://www.youtube.com/watch?v=SXnHqFGLNxA)
