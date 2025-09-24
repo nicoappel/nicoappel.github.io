@@ -7,7 +7,7 @@ type: "link"
 tags: ["communication", "Critical Thinking", "Ethics", "philosophy", "truth"]
 status: "published"
 ---
-Bullshit appears to be an accelerating phenomenon. 
+Bullshit appears to be s still accelerating phenomenon. 
 
 It was a good time to read this in 2016, but, unfortunately, it’s even more pressing today. 
 
