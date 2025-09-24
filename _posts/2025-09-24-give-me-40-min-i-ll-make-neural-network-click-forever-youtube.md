@@ -5,7 +5,7 @@ url: "https://www.youtube.com/watch?v=SXnHqFGLNxA"
 created: "2025-09-24 14:34:54"
 type: "link"
 tags: ["machine learning", "Educational Video", "Deep Learning", "Neural Networks", "Artificial Intelligence"]
-status: "published"
+status: "draft"
 ---
 This is a great resource. 
 
