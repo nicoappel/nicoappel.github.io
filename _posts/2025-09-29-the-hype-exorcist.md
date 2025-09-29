@@ -5,7 +5,7 @@ url: "https://open.substack.com/pub/maried/p/the-hype-exorcist?r=6wmj5&utm_mediu
 created: "2025-09-28 18:28:20"
 type: "link"
 tags: ["Critical Thinking", "Debunking", "Skepticism", "Media Literacy"]
-status: "published"
+status: "ready"
 ---
 The Hype Exorcist! Nice write up. 
 
