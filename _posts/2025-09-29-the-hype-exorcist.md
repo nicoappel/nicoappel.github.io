@@ -8,6 +8,8 @@ type: "link"
 tags: ["Critical Thinking", "Debunking", "Skepticism", "Media Literacy"]
 
 ---
+> **⚠️ Work in Progress**: This post is still being refined and updated.
+
 The Hype Exorcist! Nice write up. 
 
 [🔗 Substack](https://open.substack.com/pub/maried/p/the-hype-exorcist?r=6wmj5&utm_medium=ios)
