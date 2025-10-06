@@ -4,6 +4,8 @@ show_excerpts: true
 author: "Nico Appel"
 keep_files:
   - assets/docs/*.md
+exclude:
+  - Space Script - Auto Publish.md
 github_username: nicoappel
 twitter_username: nicoappel
 linkedin_username: nico-appel

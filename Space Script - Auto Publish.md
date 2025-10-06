@@ -37,8 +37,8 @@ silverbullet.registerEventListener({name: "page:saved"}, async (event) => {
   // Run git commands to commit and push
   try {
     // Git add
-    await syscall("shell.run", "git", ["add", fileName], {
-      cwd: "/root/apps/silverbullet/data/blog/_posts"
+    await syscall("shell.run", "git", ["add", `_posts/${fileName}`], {
+      cwd: "/root/apps/silverbullet/data/blog"
     });
 
     // Git commit
