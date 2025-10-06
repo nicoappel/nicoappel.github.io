@@ -35,4 +35,4 @@ A good—or rather, experienced—developer will do magic with these tools becau
 
 The non-technical person, on the other hand, can work with a large language model and build out features, workflows, and solutions that are completely nonsensical if you step back. The entire situation reminds me of The Simpsons episode where Homer gets to choose his dream car and builds this completely ugly and ultimately undesirable customized vehicle.
 
-![Homer’s car design](https://simpsonspedia.net/index.php/Datei:Homer_Auto_2.jpg)
+![Homer’s car design](https://simpsonspedia.net/index.php/Homer_(Fahrzeug)#/media/Datei:Homer_Auto_2.jpg)
