@@ -1,6 +1,6 @@
 ---
 karakeep_id: "wb0kgwiyuzrgl1hp82lshb9u"
-title: "Building Projects"
+title: "Building with AI Is Outsourcing"
 created: "2025-10-06 14:05:06"
 type: "note"
 tags: ["Outsourcing", "Intellectual Property", "Workflows", "Technology Management", "Artificial Intelligence", "aal"]
