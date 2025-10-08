@@ -9,9 +9,7 @@ Hence, everything is more or less a regurgitation of a press release. It maybe a
 
 Beyond newsletters though, we have cultivated this race to immediate coverage. However, the cases where this is actually useful are rare. Gossip probably being a more legitimate use case for immediate coverage.
 
-## Oldletters 
-
-What I want are some “oldletters“.
+How about some **“oldletters“?**
 
 They would cover things only after thorough testing, meaning real experience gained by using X _over time_. A couple of weeks, or a couple of months of usage is what my gut tells me should be about right. 
 
