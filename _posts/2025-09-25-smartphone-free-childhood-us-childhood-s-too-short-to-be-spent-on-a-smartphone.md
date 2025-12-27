@@ -1,6 +1,6 @@
 ---
 karakeep_id: "p13k2bj2i9dh0f67i5skjki9"
-title: "Quoting Smartphone Free Childhood"
+title: "Childhood's Too Short to Be Spent on a Smartphone"
 url: "https://www.smartphonefreechildhoodus.com/"
 created: "2025-09-24 09:15:32"
 type: "link"

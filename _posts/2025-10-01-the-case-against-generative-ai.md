@@ -1,6 +1,6 @@
 ---
 karakeep_id: "in7hbmv2d4jhlj4o9vhdvvu6"
-title: "Quoting Ed Zitron"
+title: "The Case Against Generative AI"
 url: "https://www.wheresyoured.at/the-case-against-generative-ai/"
 created: "2025-10-01 04:18:45"
 type: "link"

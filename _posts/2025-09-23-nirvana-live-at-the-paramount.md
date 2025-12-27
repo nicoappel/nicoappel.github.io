@@ -1,6 +1,6 @@
 ---
 karakeep_id: "g7k9fy4k4mxtaj1y838byhaw"
-title: "Quoting ARTE"
+title: "Nirvana - Live at the Paramount"
 url: "https://www.arte.tv/de/videos/124202-000-A/nirvana/"
 created: "2025-09-22 20:35:00"
 type: "link"

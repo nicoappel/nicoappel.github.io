@@ -1,6 +1,6 @@
 ---
 karakeep_id: "r4c5n25yiqck420qh3sb1gaw"
-title: "Quoting Anil Dash"
+title: "The Majority AI View"
 url: "https://www.anildash.com/2025/10/17/the-majority-ai-view/"
 created: "2025-10-21 05:09:50"
 type: "link"

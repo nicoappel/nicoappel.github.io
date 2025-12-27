@@ -1,6 +1,6 @@
 ---
 karakeep_id: "wevfga61eu8e6eqn4sh6ruhw"
-title: "Quoting John Gruber"
+title: "Harry Frankfurt's On Bullshit"
 url: "https://daringfireball.net/linked/2016/12/29/on-bullshit"
 created: "2025-09-23 19:55:43"
 type: "link"

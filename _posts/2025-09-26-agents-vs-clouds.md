@@ -1,6 +1,6 @@
 ---
 karakeep_id: "ywo0sy9gxmy7j1lq4ruucxw0"
-title: "Quoting Ethan Ding"
+title: "agents vs clouds"
 url: "https://ethanding.substack.com/p/agents-vs-clouds"
 created: "2025-09-25 09:27:20"
 type: "link"
