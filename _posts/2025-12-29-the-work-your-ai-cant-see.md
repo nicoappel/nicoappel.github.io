@@ -6,11 +6,14 @@ tags: [ai-agents, workflows, documentation, operations]
 ---
 
 
-There's an overlooked benefit to working with agents: in order to make working with agents work, **you're going to make work work.**
+There’s an overlooked benefit to working with agents: in order to make working with agents work, **you're going to make work work.**
 
 The gap that most organizations stumble over isn't technical per se. It won't be solved by more capable models, a better UI, or the next release. It's the same gap that's plagued knowledge work for decades: work that exists only in people's heads, processes that depend on the right person being in the room, documentation that's either outdated or unfindable or both.
 
 Whether the AI models improve next month or next year, the work before us is the same. But there's some good news.
+
+![A dusty leather-bound book titled "How We Work" covered in cobwebs](/assets/images/work-ai-cant-see-dusty-docs.png)
+*Last updated: Q3 2019. "We'll get to it next sprint."*
 
 ## The Six Primitives
 
