@@ -5,7 +5,6 @@ published: true
 tags: [ai-agents, workflows, documentation, operations]
 ---
 
-# The Work Your AI Can't See
 
 There's an overlooked benefit to working with agents: in order to make working with agents work, **you're going to make work work.**
 
