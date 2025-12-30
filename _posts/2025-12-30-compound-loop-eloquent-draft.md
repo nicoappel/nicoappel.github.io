@@ -1,7 +1,7 @@
 ---
 title: "The Compound Loop"
-published: true
-status: published
+published: false
+status: draft-eloquent
 created: 2025-12-30
 tags: [ai-agents, documentation, work-primitives]
 ---
@@ -20,11 +20,13 @@ Text files in version control. Domain-based organization. A style guide encoded 
 
 For the AI itself: context files at the repository root explaining structure and conventions. Contribution rules that apply equally to human and machine collaborators. Workflow specifications detailed enough that an agent can execute them without improvisation.
 
-The result: a human says "Sarah left – update the team page and anywhere else she's mentioned." The AI searches, finds five files, shows the proposed changes, waits for approval. One merge request. Complete coverage. Version history intact.
+The result: a human says "Sarah left - update the team page and anywhere else she's mentioned." The AI searches, finds five files, shows the proposed changes, waits for approval. One merge request. Complete coverage. Version history intact.
 
 ## What This Makes Possible
 
-"What changed in our documentation this month?" The AI reads the commit history and summarizes by author, by topic, by domain. Try that with Google Docs – clicking through revision histories one document at a time, hoping you don't overlook something.
+A colleague departs. Rather than hunting through folders hoping to catch every reference, I state the intent. The AI handles the search, the edits, the verification. Comprehensive updates that I would have missed doing manually.
+
+"What changed in our documentation this month?" The AI reads the commit history and summarizes by author, by topic, by domain. Try that with Google Docs - clicking through revision histories one document at a time, hoping you don't overlook something.
 
 This isn't incremental improvement. It's a different class of capability.
 
@@ -38,7 +40,7 @@ The distinction between "technical" and "non-technical" people is eroding faster
 
 ## Pressure Testing
 
-I asked the AI to argue against this approach. The objections were reasonable – exactly what a thoughtful skeptic would raise.
+I asked the AI to argue against this approach. The objections were reasonable - exactly what a thoughtful skeptic would raise.
 
 <style>
 .chat-container { max-width: 100%; margin: 2rem 0; }
@@ -99,7 +101,7 @@ I asked the AI to argue against this approach. The objections were reasonable �
 
 <div class="chat-bubble response">
 <div class="chat-label">Response</div>
-<p>Most changes need no review. This isn't production code. Edits are documented. Rollback is trivial. Review exists for awareness, not gatekeeping. Unlike live-edit systems, you can see what changed and why – which matters when something breaks.</p>
+<p>Most changes need no review. This isn't production code. Edits are documented. Rollback is trivial. Review exists for awareness, not gatekeeping. Unlike live-edit systems, you can see what changed and why - which matters when something breaks.</p>
 </div>
 
 </div>
@@ -110,7 +112,7 @@ The architecture held. What remains are questions of execution, not design.
 
 This requires scaffolding:
 
-Context files that explain repository structure and conventions to AI collaborators. Quality automation that enforces what humans cannot consistently maintain. A rendered interface for human readers – the repository is truth, but people browse a website. At least one person who understands the system deeply enough to intervene when the AI gets confused. And active use – documentation that sits unread will drift regardless of architecture.
+Context files that explain repository structure and conventions to AI collaborators. Quality automation that enforces what humans cannot consistently maintain. A rendered interface for human readers - the repository is truth, but people browse a website. At least one person who understands the system deeply enough to intervene when the AI gets confused. And active use - documentation that sits unread will drift regardless of architecture.
 
 ## The Shift
 
@@ -119,20 +121,3 @@ The old model treated documentation as a cost center. Time writing was time not 
 Google Docs optimizes for a world where humans do all the reading and writing. This approach optimizes for a world where AI handles structure and humans handle intent.
 
 That world arrived.
-
----
-
-## Appendix: Key Components
-
-For those implementing something similar:
-
-| Component | Purpose | Example |
-|-----------|---------|---------|
-| **CLAUDE.md** | Repository context for AI | Project overview, common commands, restrictions |
-| **AGENTS.md** | Contribution rules | Branch naming, commit format, validation requirements |
-| **Style guide** | Terminology authority | YAML file with brand spellings, capitalization rules |
-| **Conventions doc** | Structural rules | File naming, directory organization, metadata standards |
-| **Pre-commit hooks** | Quality gates | MDX validation, link checking, naming conventions |
-| **Validation scripts** | Enforcement | Python/JS scripts that check standards programmatically |
-| **Agent specifications** | Workflow guidance | Detailed specs for specific agent tasks |
-| **Domain READMEs** | Navigation | Hub-and-spoke structure with clear entry points |
