@@ -1,5 +1,5 @@
 ---
-title: "The Compound Loop: Documentation in the Agent Era"
+title: "The Compound Loop"
 published: true
 status: published
 created: 2025-12-30
