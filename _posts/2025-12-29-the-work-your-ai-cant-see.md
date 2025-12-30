@@ -15,15 +15,15 @@ Whether the AI models improve next month or next year, the work before us is the
 ![A dusty leather-bound book titled "How We Work" covered in cobwebs](/assets/images/work-ai-cant-see-dusty-docs.png)
 *Last updated: Q3 2019. "We'll get to it next sprint."*
 
-## The Six Primitives
+## The Primitives
 
-[Nate B. Jones](https://www.youtube.com/watch?v=4Bg0Q1enwS4) frames it as six questions that every workflow needs to answer explicitly:
+[Nate B. Jones](https://www.youtube.com/watch?v=4Bg0Q1enwS4) frames it as questions that every workflow needs to answer explicitly:
 
-1. **State**  – What are the current conditions? What changed?
-2. **Artifacts**  – What tangible outputs are we working with?
-3. **Change Records**  – What modifications were made, and when?
-4. **Checks**  – How do we validate it worked?
-5. **Rollback**  – How do we revert when it doesn't?
+1. **System of record** – Where's the thing we change? What's the canonical source of truth?
+2. **State**  – How do we see that it changed? What's the before/after?
+3. **Gate** – How do we approve it? What are the defined transitions?
+4. **Checks**  – How do we prove it worked? ("It looks good" is not a check.)
+5. **Rollback**  – How do we undo it when it doesn't?
 6. **Traceability**  – Who did what, and why?
 
 This framing resonates with my work at TightOps. A decade of work in and with (distributed team) operations, across different companies and cultures, and always finding the same fundamental failure is not the technology. It is a **legibility** issue – work that isn't readable, findable, or actionable by anyone who wasn't in the room when it happened.
@@ -66,14 +66,14 @@ This is what it means to scale without losing coherence. **The documentation isn
 
 ## Entry Point
 
-Pick one workflow, one project, one team. Audit it against the six primitives:
+Pick one workflow, one project, one team. Audit it against the primitives:
 
-- What's the current state, and can you see what changed?
-- What artifacts are you working with?
-- Where are the change records?
-- What checks validate success?
+- Where's the system of record? What's the canonical source of truth?
+- Can you see the before/after when something changes?
+- What's the gate? How do changes get approved?
+- What checks prove it worked? (Not "it looks good" - something objective.)
 - Can you roll back when it doesn't work?
-- Can you trace who did what?
+- Can you trace who did what, and why?
 
 The gaps you find will tell you exactly where the friction lives – why things aren't shipping, why execution feels harder than it should, why scaling keeps breaking what used to work.
 
