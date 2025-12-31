@@ -18,7 +18,7 @@ The answer, IMO, is clear. But there's something else most teams overlook entire
 
 ## The Direct Comparison
 
-A teammate leaves the company. Their name appears on the team page, in project documentation, in onboarding guides – you're not sure where else. In Google Docs, you start searching. Document by document. Hoping you don't miss one. Hoping someone else didn't create a doc you don't know about.
+Someone leaves the company. Their name appears on the team page, in project documentation, in onboarding guides – you're not sure where else. In Google Docs, you start searching. Document by document. Hoping you don't miss one. Hoping someone else didn't create a doc you don't know about.
 
 In a repository with AI as your interface, you say: "This person is no longer working for us. Remove them from the team page, and find any other places in the documentation where they're mentioned."
 
@@ -26,27 +26,27 @@ The AI searches. Comes back: "I found five files affected by this. Here are the 
 
 This is a class of capability Google Docs simply doesn't have.
 
-Here's another: "What changed in our documentation this month?"
+Here's another use case, something I use regularly: "What changed in our documentation this month?"
 
 With a repository, the AI reads the commit history and summarizes – by author, by topic, by domain. With Google Docs, you're clicking through revision histories one document at a time. If you even remember which documents to check.
 
 And then there's quality. Documentation I produce through AI doesn't have typos. Not because I'm careful – because nothing is typed by hand. Quality agents scan the repository continuously. They check for broken links, inconsistent terminology, naming conventions. Standards that humans struggle to maintain consistently become trivial to enforce.
 
-Google Docs has version history. It has commenting. It has suggesting mode. For many teams, it's genuinely sufficient.
+Google Docs has version history. It has comments. It has suggesting mode. For many teams, it's genuinely sufficient (to write documents.
 
 But it can't do comprehensive cross-repository updates. It can't answer "what changed this month" across all your documentation. It can't enforce quality standards automatically. The repository approach doesn't just match Google Docs on convenience – it exceeds the capability ceiling.
 
-There's another dimension most people miss. When you put documentation in a repository, you're putting it in the AI's native habitat.
+Another dimension most people miss: When you put documentation in a repository, you're putting it in the AI's native habitat.
 
-These tools were trained on code repositories. That's their breeding ground – where they learned to navigate file structures, parse markdown, understand diffs, follow conventions. They know the ins and outs. When you ask an AI to operate on a repo, you're asking it to work in the environment it knows best.
+These tools were trained on code repositories. That's their breeding ground – where they learned to navigate file structures, parse markdown, understand diffs, follow conventions. When you ask an AI to operate on a repo, you're asking it to work in the environment it knows best.
 
-Which means your documentation isn't just for your human team anymore. It's for your AI team too. Every file you structure well, every convention you follow, every piece of context you make explicit – it serves both audiences. The humans who need to understand what's happening, and the AI agents who need to operate reliably.
+You know, your documentation isn't just for your human team anymore. It's for your AI team. Every file you structure well, every convention you follow, every piece of context you make explicit – it serves both audiences. The humans who need to understand what's happening, and the AI agents who need to operate reliably.
 
-Google Docs is parseable. But the repo is where the AI lives.
+Google Docs might be parseable. But the repo is where the AI lives.
 
 ## Stress Test
 
-I told the AI to argue against this approach – to surface the strongest objections a thoughtful skeptic would raise. Not because I wanted to lose the argument, but because I wanted to find the holes I might be sensing but hadn't articulated yet. The challenges it came back with were reasonable. Here's how I'd address them.
+I asked Claude to argue against this approach – to surface some objections because I wanted to find the holes I hadn't articulated yet. The challenges it came back with were reasonable. Here's how I addressed them.
 
 <style>
 .chat-container { max-width: 100%; margin: 2rem 0; }
@@ -112,9 +112,9 @@ I told the AI to argue against this approach – to surface the strongest object
 
 </div>
 
-The objections are reasonable. In my experience, they don't hold.
+The objections are reasonable. I don’t think they't hold.
 
-But there's a deeper question underneath all of this.
+And there's a deeper question underneath all of this.
 
 ## The Dissolution
 
@@ -122,39 +122,39 @@ The distinction between "technical" and "non-technical" people is eroding faster
 
 Most teams never considered putting documentation in a git repository because git is for code. Documentation is just something people write into documents – Word, then Google Docs. Different worlds entirely.
 
-There have been attempts to bridge them. Wikis promised structured, linked documentation – most failed to stick. Notion blends the document model with wiki-like features, and it's genuinely good at what it does. Arguing against Notion is a different piece. But my taste runs toward keeping things as close as you can to the bare metal: text files, version control, minimal abstraction.
+There have been attempts to bridge them. Wikis, for example, with Notion being a Google Doc and Wiki blend. But my taste runs toward keeping things as close as you can to the bare metal: **text files, version control, minimal abstraction.**
 
-The suggestion that docs should live in version-controlled text files, structured like a codebase, surprises most people. Add "and you'll interact with it through command lines and merge requests" and you've lost them completely.
+The suggestion that docs should live in version-controlled text files, structured like a codebase, surprises most folks. The outdated assumption is that you’d be tied to using command line and type git commands, solve merge conflicts. 
 
-But AI changes the equation. The interface layer shifted.
+No more. AI agents changed the equation. The interface layer shifted.
 
-If you're not seeing this yet, consider it a wake-up call. AI can be the documentation interface. Not someday – now. I'm telling you from the trenches: it works.
+If you're not seeing this yet, I am not surprised. It’s kind of hidden still. But, AI can be the documentation interface. Not someday – now. I'm telling you from the trenches: it works.
 
 What does onboarding look like in this model? You teach people the concepts. What is version control? Why does it matter? What's a commit, a branch, a merge request? You walk them through it once – write some markdown, see what it looks like, understand what a diff shows you.
 
-Then you hand them to the AI.
+Then you hand them the AI agent, and probably some dictation tool.
 
 From that point on, they describe what they want in natural language. The AI handles the markdown, the file placement, the structure, the formatting. Contributors don't need to remember syntax. They need to understand what they're trying to accomplish.
 
 The barrier that kept documentation in Google Docs – "git is for code, not for us" – is dissolving. If you're still making decisions based on that assumption, you might be solving a problem that's disappearing.
 
-## What You Might Be Overlooking
+## Forget Documentation
 
-Even if you're still unsure which way to go on the tooling question, there's something you might be overlooking.
+Really, this is not a tooling question. It is not even about documentation as it has been thought of for the longest time.
 
-This isn't just a decision about where your docs live. It's a directional choice – about what you're developing your team, your organization, and yourself toward.
+It's a directional choice – about what you're developing your team, your organization, and yourself toward.
 
 If you solve the "non-technical people can't use git" problem by adding abstraction layers – a CMS on top, a friendly UI that hides the machinery – you might win convenience. But you also prevent people from developing primitive fluency[^1]: the intuition for how these building blocks work together and compound into capability over time.
 
-From my point of view, you have to actually buy into this direction. Performatively doing a little bit of AI – "we also use AI, we have a chatbot" – won't cut it. That's not going to put you or your team in step with what's happening.
+From my point of view, you have to **actually buy into this direction.** Performatively doing a little bit of AI – "we do use AI, sure. We transcribe meetings" – won't cut it. That's not going to put you or your team in step with what's happening.
 
-I acknowledge it's difficult to keep up. But this is already happening. And unlike betting on future model capabilities, there's little downside to moving this way. We're talking about what works right now. Putting yourself and your organization into a state where you're leveraging what's already possible – which is already a multiplier – and ready to leverage what's coming.
+I acknowledge it's difficult to keep up. It really is. However, this is already happening. And unlike betting on future model capabilities, there's little downside to moving this way. We're talking about what works _right now._ 
 
-Jack Clark put it sharply:
+Put yourself and your organization into a state where you're leveraging what's already possible – which is in fact a multiplier – and be ready to leverage what's coming.
+
+Jack Clark in his [recent newsletter](https://nicoappel.github.io/2025/12/23/import-ai-438-silent-sirens-flashing-for-us-all.html):
 
 > "By the summer I expect that many people who work with frontier AI systems will feel as though they live in a parallel world to people who don't. And I expect this will be more than just a feeling."
-
-The Google Docs question might feel like a tooling decision. It's actually a question about which world you're positioning yourself for.
 
 More on this to come.
 
