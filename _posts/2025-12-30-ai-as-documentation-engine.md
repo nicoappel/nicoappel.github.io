@@ -12,9 +12,9 @@ Most teams stopped asking this question years ago. Google Docs won. Non-technica
 
 Except it's not the end. The reasoning made sense when it was humans doing all the typing, formatting, placing files in folders. That assumption is dissolving faster than most people realize.
 
-I want to examine this question again – not to relitigate old arguments, but because the ground shifted underneath them. We're going to stress test both approaches. I'll make the case for repositories, then surface the strongest objections and address them directly.
+I want to examine this question again – not to relitigate old arguments, but because the ground shifted underneath us. We're going to stress test both approaches. I'll make the case for repositories, then surface the strongest objections and address them directly.
 
-The answer, I think, is clear. But there's something else most teams overlook entirely. And that might matter more than the tooling decision itself.
+The answer, IMO, is clear. But there's something else most teams overlook entirely. And that might matter more than the tooling decision itself.
 
 ## The Direct Comparison
 
@@ -24,7 +24,7 @@ In a repository with AI as your interface, you say: "This person is no longer wo
 
 The AI searches. Comes back: "I found five files affected by this. Here are the proposed changes." You review. You approve. One merge request. Complete coverage. Version history intact.
 
-This isn't a marginal improvement. It's a capability class Google Docs doesn't have.
+This is a class of capability Google Docs simply doesn't have.
 
 Here's another: "What changed in our documentation this month?"
 
@@ -35,6 +35,14 @@ And then there's quality. Documentation I produce through AI doesn't have typos.
 Google Docs has version history. It has commenting. It has suggesting mode. For many teams, it's genuinely sufficient.
 
 But it can't do comprehensive cross-repository updates. It can't answer "what changed this month" across all your documentation. It can't enforce quality standards automatically. The repository approach doesn't just match Google Docs on convenience – it exceeds the capability ceiling.
+
+There's another dimension most people miss. When you put documentation in a repository, you're putting it in the AI's native habitat.
+
+These tools were trained on code repositories. That's their breeding ground – where they learned to navigate file structures, parse markdown, understand diffs, follow conventions. They know the ins and outs. When you ask an AI to operate on a repo, you're asking it to work in the environment it knows best.
+
+Which means your documentation isn't just for your human team anymore. It's for your AI team too. Every file you structure well, every convention you follow, every piece of context you make explicit – it serves both audiences. The humans who need to understand what's happening, and the AI agents who need to operate reliably.
+
+Google Docs is parseable. But the repo is where the AI lives.
 
 ## Stress Test
 
