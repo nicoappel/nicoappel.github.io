@@ -1,44 +1,44 @@
 ---
-title: "The Compound Loop"
+title: "Why Your Docs Should Live in a Repo Now"
 published: true
 status: published
 created: 2025-12-30
 tags: [ai-agents, documentation, work-primitives]
 ---
 
-Documentation used to be something you wrote for people to read. Now it's infrastructure that agents run against. This distinction matters more than it appears to.
+Should your internal documentation live in Google Docs or a git repository?
 
-When you structure knowledge so that AI can operate on it directly, something unexpected happens: a compound loop emerges. Better documentation makes agents more capable. More capable agents make documentation easier to maintain. Easier maintenance means more gets documented. The cycle accelerates.
+Most teams stopped asking this question years ago. Google Docs won. Non-technical people can't use git. End of debate.
 
-Six months into this approach, we document things we would never have bothered writing down before. Not through discipline. Through economics. The cost collapsed to nearly zero.
+Except it's not the end. The reasoning made sense when it was humans doing all the typing, formatting, placing files in folders. That assumption is dissolving faster than most people realize.
 
-## The Architecture
+I want to examine this question again – not to relitigate old arguments, but because the ground shifted underneath them. We're going to stress test both approaches. I'll make the case for repositories, then surface the strongest objections and address them directly.
 
-I maintain documentation across ten domains, hundreds of files, contributors with varied technical backgrounds. The system runs on a few key principles:
+The answer, I think, is clear. But there's something else most teams overlook entirely. And that might matter more than the tooling decision itself.
 
-Text files in version control. Domain-based organization. A style guide encoded in YAML that machines can read and enforce. Five hundred lines of explicit conventions. Pre-commit hooks that catch problems before they propagate. Quality agents that find what humans miss.
+## The Direct Comparison
 
-For the AI itself: context files at the repository root explaining structure and conventions. Contribution rules that apply equally to human and machine collaborators. Workflow specifications detailed enough that an agent can execute them without improvisation.
+A teammate leaves the company. Their name appears on the team page, in project documentation, in onboarding guides – you're not sure where else. In Google Docs, you start searching. Document by document. Hoping you don't miss one. Hoping someone else didn't create a doc you don't know about.
 
-The result: a human says "Sarah left – update the team page and anywhere else she's mentioned." The AI searches, finds five files, shows the proposed changes, waits for approval. One merge request. Complete coverage. Version history intact.
+In a repository with AI as your interface, you say: "This person is no longer working for us. Remove them from the team page, and find any other places in the documentation where they're mentioned."
 
-## What This Makes Possible
+The AI searches. Comes back: "I found five files affected by this. Here are the proposed changes." You review. You approve. One merge request. Complete coverage. Version history intact.
 
-"What changed in our documentation this month?" The AI reads the commit history and summarizes by author, by topic, by domain. Try that with Google Docs – clicking through revision histories one document at a time, hoping you don't overlook something.
+This isn't a marginal improvement. It's a capability class Google Docs doesn't have.
 
-This isn't incremental improvement. It's a different class of capability.
+Here's another: "What changed in our documentation this month?"
 
-## The Obsolete Debate
+With a repository, the AI reads the commit history and summarizes – by author, by topic, by domain. With Google Docs, you're clicking through revision histories one document at a time. If you even remember which documents to check.
 
-The old argument was convenience versus control. Google Docs for accessibility. Git repositories for rigor. Choose your tradeoff.
+And then there's quality. Documentation I produce through AI doesn't have typos. Not because I'm careful – because nothing is typed by hand. Quality agents scan the repository continuously. They check for broken links, inconsistent terminology, naming conventions. Standards that humans struggle to maintain consistently become trivial to enforce.
 
-That framing assumed humans would always be the ones typing. AI dissolves the assumption. Contributors describe intent in natural language. The AI handles syntax, placement, structure, linking. The technical barrier vanishes. The benefits of version control remain.
+Google Docs has version history. It has commenting. It has suggesting mode. For many teams, it's genuinely sufficient.
 
-The distinction between "technical" and "non-technical" people is eroding faster than most realize.
+But it can't do comprehensive cross-repository updates. It can't answer "what changed this month" across all your documentation. It can't enforce quality standards automatically. The repository approach doesn't just match Google Docs on convenience – it exceeds the capability ceiling.
 
-## Pressure Testing
+## Stress Test
 
-I asked the AI to argue against this approach. The objections were reasonable – exactly what a thoughtful skeptic would raise.
+I told the AI to argue against this approach – to surface the strongest objections a thoughtful skeptic would raise. Not because I wanted to lose the argument, but because I wanted to find the holes I might be sensing but hadn't articulated yet. The challenges it came back with were reasonable. Here's how I'd address them.
 
 <style>
 .chat-container { max-width: 100%; margin: 2rem 0; }
@@ -69,7 +69,7 @@ I asked the AI to argue against this approach. The objections were reasonable �
 
 <div class="chat-bubble response">
 <div class="chat-label">Response</div>
-<p>I haven't written documentation directly in months. I describe what I want. The AI writes. Typos don't exist because nothing is typed by hand. Quality agents scan continuously. Standards that humans struggle to maintain become trivial to enforce.</p>
+<p>I don't write documentation by hand anymore. I describe what I want. The AI writes. Typos don't get introduced because nothing is typed manually. Quality agents catch what slips through. The "fix a typo" scenario barely exists in this model.</p>
 </div>
 
 <div class="chat-bubble challenge">
@@ -79,7 +79,7 @@ I asked the AI to argue against this approach. The objections were reasonable �
 
 <div class="chat-bubble response">
 <div class="chat-label">Response</div>
-<p>Active use surfaces problems. Query the documentation daily, run operations against it, and inconsistencies reveal themselves. Errors live in diffs, not hidden in opaque state. What gets used stays accurate.</p>
+<p>Active use surfaces problems. Query the documentation daily, run operations against it, and inconsistencies reveal themselves. What gets used stays accurate. What sits unread drifts – regardless of what tool produced it.</p>
 </div>
 
 <div class="chat-bubble challenge">
@@ -89,7 +89,7 @@ I asked the AI to argue against this approach. The objections were reasonable �
 
 <div class="chat-bubble response">
 <div class="chat-label">Response</div>
-<p>Conceptual understanding, not operational skill. Know what version control accomplishes and why it matters. The AI operates the tools. Optimizing for manual operation is optimizing for the past.</p>
+<p>Conceptual understanding, not operational skill. Know what version control accomplishes and why it matters. The AI operates the tools. Training people on manual git operations is optimizing for the past.</p>
 </div>
 
 <div class="chat-bubble challenge">
@@ -99,40 +99,55 @@ I asked the AI to argue against this approach. The objections were reasonable �
 
 <div class="chat-bubble response">
 <div class="chat-label">Response</div>
-<p>Most changes need no review. This isn't production code. Edits are documented. Rollback is trivial. Review exists for awareness, not gatekeeping. Unlike live-edit systems, you can see what changed and why – which matters when something breaks.</p>
+<p>Most changes need no review. This isn't production code. Edits are documented. Rollback is trivial. Review exists for awareness when needed, not gatekeeping. And unlike live-edit systems, you can see exactly what changed and why.</p>
 </div>
 
 </div>
 
-The architecture held. What remains are questions of execution, not design.
+The objections are reasonable. In my experience, they don't hold.
 
-## Prerequisites
+But there's a deeper question underneath all of this.
 
-This requires scaffolding:
+## The Dissolution
 
-Context files that explain repository structure and conventions to AI collaborators. Quality automation that enforces what humans cannot consistently maintain. A rendered interface for human readers – the repository is truth, but people browse a website. At least one person who understands the system deeply enough to intervene when the AI gets confused. And active use – documentation that sits unread will drift regardless of architecture.
+The distinction between "technical" and "non-technical" people is eroding faster than most realize.
 
-## The Shift
+Most teams never considered putting documentation in a git repository because git is for code. Documentation is just something people write into documents – Word, then Google Docs. Different worlds entirely.
 
-The old model treated documentation as a cost center. Time writing was time not working. The new model treats it as infrastructure that compounds. More documented means more capable agents means easier documentation means more documented.
+There have been attempts to bridge them. Wikis promised structured, linked documentation – most failed to stick. Notion blends the document model with wiki-like features, and it's genuinely good at what it does. Arguing against Notion is a different piece. But my taste runs toward keeping things as close as you can to the bare metal: text files, version control, minimal abstraction.
 
-Google Docs optimizes for a world where humans do all the reading and writing. This approach optimizes for a world where AI handles structure and humans handle intent.
+The suggestion that docs should live in version-controlled text files, structured like a codebase, surprises most people. Add "and you'll interact with it through command lines and merge requests" and you've lost them completely.
 
-That world arrived.
+But AI changes the equation. The interface layer shifted.
 
----
+If you're not seeing this yet, consider it a wake-up call. AI can be the documentation interface. Not someday – now. I'm telling you from the trenches: it works.
 
-## Appendix: Key Components
+What does onboarding look like in this model? You teach people the concepts. What is version control? Why does it matter? What's a commit, a branch, a merge request? You walk them through it once – write some markdown, see what it looks like, understand what a diff shows you.
 
-For those implementing something similar:
+Then you hand them to the AI.
 
-| Component | Purpose | Example |
-|-----------|---------|---------|
-| **CLAUDE.md** | Repository context for AI | Project overview, common commands, restrictions |
-| **AGENTS.md** | Contribution rules | Branch naming, commit format, validation requirements |
-| **Style guide** | Terminology authority | YAML file with brand spellings, capitalization rules |
-| **Conventions doc** | Structural rules | File naming, directory organization, metadata standards |
-| **Pre-commit hooks** | Quality gates | MDX validation, link checking, naming conventions |
-| **Validation scripts** | Enforcement | Python/JS scripts that check standards programmatically |
-| **Agent specifications** | Workflow guidance | Detailed specs for specific agent tasks |
-| **Domain READMEs** | Navigation | Hub-and-spoke structure with clear entry points |
+From that point on, they describe what they want in natural language. The AI handles the markdown, the file placement, the structure, the formatting. Contributors don't need to remember syntax. They need to understand what they're trying to accomplish.
+
+The barrier that kept documentation in Google Docs – "git is for code, not for us" – is dissolving. If you're still making decisions based on that assumption, you might be solving a problem that's disappearing.
+
+## What You Might Be Overlooking
+
+Even if you're still unsure which way to go on the tooling question, there's something you might be overlooking.
+
+This isn't just a decision about where your docs live. It's a directional choice – about what you're developing your team, your organization, and yourself toward.
+
+If you solve the "non-technical people can't use git" problem by adding abstraction layers – a CMS on top, a friendly UI that hides the machinery – you might win convenience. But you also prevent people from developing primitive fluency[^1]: the intuition for how these building blocks work together and compound into capability over time.
+
+From my point of view, you have to actually buy into this direction. Performatively doing a little bit of AI – "we also use AI, we have a chatbot" – won't cut it. That's not going to put you or your team in step with what's happening.
+
+I acknowledge it's difficult to keep up. But this is already happening. And unlike betting on future model capabilities, there's little downside to moving this way. We're talking about what works right now. Putting yourself and your organization into a state where you're leveraging what's already possible – which is already a multiplier – and ready to leverage what's coming.
+
+Jack Clark put it sharply:
+
+> "By the summer I expect that many people who work with frontier AI systems will feel as though they live in a parallel world to people who don't. And I expect this will be more than just a feeling."
+
+The Google Docs question might feel like a tooling decision. It's actually a question about which world you're positioning yourself for.
+
+More on this to come.
+
+[^1]: Primitive fluency: the intuition for how simple building blocks – text files, version control, AI interaction patterns – work together and compound into capability. Term from Nate B. Jones.
