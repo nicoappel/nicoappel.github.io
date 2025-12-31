@@ -18,6 +18,8 @@ The answer, IMO, is clear. But there's something else most teams overlook entire
 
 ## The Direct Comparison
 
+### Someone Leaves the Company
+
 Someone leaves the company. Their name appears on the team page, in project documentation, in onboarding guides – you're not sure where else. In Google Docs, you start searching. Document by document. Hoping you don't miss one. Hoping someone else didn't create a doc you don't know about.
 
 In a repository with AI as your interface, you say: "This person is no longer working for us. Remove them from the team page, and find any other places in the documentation where they're mentioned."
@@ -26,15 +28,21 @@ The AI searches. Comes back: "I found five files affected by this. Here are the 
 
 This is a class of capability Google Docs simply doesn't have.
 
+### What Changed This Month
+
 Here's another use case, something I use regularly: "What changed in our documentation this month?"
 
 With a repository, the AI reads the commit history and summarizes – by author, by topic, by domain. With Google Docs, you're clicking through revision histories one document at a time. If you even remember which documents to check.
+
+### Quality Automation
 
 And then there's quality. Documentation I produce through AI doesn't have typos. Not because I'm careful – because nothing is typed by hand. Quality agents scan the repository continuously. They check for broken links, inconsistent terminology, naming conventions. Standards that humans struggle to maintain consistently become trivial to enforce.
 
 Google Docs has version history. It has comments. It has suggesting mode. For many teams, it's genuinely sufficient (to write documents.
 
 But it can't do comprehensive cross-repository updates. It can't answer "what changed this month" across all your documentation. It can't enforce quality standards automatically. The repository approach doesn't just match Google Docs on convenience – it exceeds the capability ceiling.
+
+### The AI's Native Habitat
 
 Another dimension most people miss: When you put documentation in a repository, you're putting it in the AI's native habitat.
 
@@ -112,7 +120,7 @@ I asked Claude to argue against this approach – to surface some objections bec
 
 </div>
 
-The objections are reasonable. I don’t think they't hold.
+The objections are reasonable. I don't think they't hold.
 
 And there's a deeper question underneath all of this.
 
@@ -124,11 +132,11 @@ Most teams never considered putting documentation in a git repository because gi
 
 There have been attempts to bridge them. Wikis, for example, with Notion being a Google Doc and Wiki blend. But my taste runs toward keeping things as close as you can to the bare metal: **text files, version control, minimal abstraction.**
 
-The suggestion that docs should live in version-controlled text files, structured like a codebase, surprises most folks. The outdated assumption is that you’d be tied to using command line and type git commands, solve merge conflicts. 
+The suggestion that docs should live in version-controlled text files, structured like a codebase, surprises most folks. The outdated assumption is that you'd be tied to using command line and type git commands, solve merge conflicts. 
 
 No more. AI agents changed the equation. The interface layer shifted.
 
-If you're not seeing this yet, I am not surprised. It’s kind of hidden still. But, AI can be the documentation interface. Not someday – now. I'm telling you from the trenches: it works.
+If you're not seeing this yet, I am not surprised. It's kind of hidden still. But, AI can be the documentation interface. Not someday – now. I'm telling you from the trenches: it works.
 
 What does onboarding look like in this model? You teach people the concepts. What is version control? Why does it matter? What's a commit, a branch, a merge request? You walk them through it once – write some markdown, see what it looks like, understand what a diff shows you.
 
