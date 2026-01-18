@@ -4,9 +4,7 @@ title: "Boris Cherny's Claude Code Setup: What I Learned Running 5 Parallel Sess
 published: true
 date: "2026-01-10T22:42:00.603079+01:00"
 tags: []
----
 
-# Boris Cherny's Claude Code Setup: What I Learned Running 5 Parallel Sessions
 
 I've been experimenting with Claude Code for months, but when Boris Cherny—the creator of Claude Code himself—dropped a 23-tweet thread about his personal workflow, I stopped what I was doing to take notes.
 
