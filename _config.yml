@@ -7,3 +7,7 @@ keep_files:
 github_username: nicoappel
 twitter_username: nicoappel
 linkedin_username: nico-appel
+
+exclude:
+  - "_posts/*.backup"
+  - "_posts/**/*.backup"

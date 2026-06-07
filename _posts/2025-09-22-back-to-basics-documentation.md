@@ -2,7 +2,6 @@
 layout: post
 title: "Back to Basics: Documentation"
 date: 2025-09-22
-categories: blog
 tags: []
 source_url: ""
 karakeep_id: "back-to-basics-documentation"

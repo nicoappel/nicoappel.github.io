@@ -1,0 +1,3 @@
+# Local editor/publisher backups
+*.backup
+*.bak
